@@ -75,5 +75,6 @@ This repository aims to:
 
 ### Connect with me (●'◡'●)
 
-**GitHub:** https://github.com/Vijay-Nagadamudi
+**GitHub:** https://github.com/Vijay-Nagadamudi 
+
 **Linkedin:** https://linkedin.com/in/vijay-nagadamudi/
