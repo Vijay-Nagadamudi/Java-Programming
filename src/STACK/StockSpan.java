@@ -24,6 +24,7 @@ public class StockSpan {
         int[] arr = {100, 80, 90, 120};
         ArrayList<Integer> ans = S_S(arr);
         System.out.println(ans);
+        System.out.println("Answer");
 
     }
 }

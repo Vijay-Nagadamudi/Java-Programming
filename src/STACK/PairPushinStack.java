@@ -26,6 +26,7 @@ public class PairPushinStack {
         System.out.println(st);
         st.pop();
         System.out.println(st);
+        System.out.println("Ans : ");
     }
 
 
