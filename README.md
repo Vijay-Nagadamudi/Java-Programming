@@ -37,6 +37,7 @@ src
 - Recursion
 - Sorting Algorithms
 - Pattern Printing
+- Stacks
 
 ## Language
 
@@ -58,16 +59,14 @@ This repository aims to:
 
 ## Future Additions
 
-- Stacks
 - Queue
 - Hashmaps
 - BackTracking
-- Trees
 - Graphs
 - Dynamic Programming
 - Greedy Algorithms
 - Backtracking
-- Tries
+- Trees
 - Heaps & Priority Queues
 - Segment Trees
 
