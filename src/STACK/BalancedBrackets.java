@@ -21,6 +21,7 @@ public class BalancedBrackets {
         Scanner sc = new  Scanner(System.in);
         String str = sc.nextLine();
         System.out.println(isBalanced(str));
+        System.out.println("Demonstration");
 
     }
 }
