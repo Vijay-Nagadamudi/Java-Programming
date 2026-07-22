@@ -27,6 +27,7 @@ public class PairPushinStack {
         st.pop();
         System.out.println(st);
         System.out.println("Ans : ");
+        System.out.println("dghjsdabc");
     }
 
 
